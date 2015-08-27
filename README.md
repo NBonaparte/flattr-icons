@@ -11,17 +11,18 @@ Icons are licensed under the [Creative Commons Attribution-ShareAlike Internatio
 Download
 ========
 
-Icons are available to download directly from this repository. Simply clone it and move the resulting folder(s) to the appropriate path.
+Icons are available to download directly from this repository. Simply clone it and move the resulting folder to the appropriate path.
 
 * In a Terminal execute the following command: 
   * `git clone https://github.com/NitruxSA/flattr-icons.git`
 
-Alternatively, click [**here**](https://github.com/NitruxSA/flattr-icons/archive/v1.3.tar.gz) for the latest release [v1.3].
+Alternatively, click [**here**](https://github.com/NitruxSA/flattr-icons/archive/v1.2.tar.gz).
 
 Install
 ========
 
-* Move the folder(s) *Flattr* and *Flattr Dark* to `/usr/share/icons`.
+* Rename the folder to *Flattr*.
+* Move the folder(s) *Flattr* to `/usr/share/icons`.
 * And finally select it in the Settings.
 
 Reporting missing icons
